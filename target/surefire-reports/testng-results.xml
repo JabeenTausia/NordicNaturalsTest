@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57223" started-at="2021-02-25T06:58:59Z" finished-at="2021-02-25T06:59:56Z">
+    <groups>
+    </groups>
+    <test name="NN Consumers HomePage Regression" duration-ms="57223" started-at="2021-02-25T06:58:59Z" finished-at="2021-02-25T06:59:56Z">
+      <class name="com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest">
+        <test-method status="PASS" signature="startSession(java.lang.String, java.lang.String)[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="startSession" is-config="true" duration-ms="11847" started-at="2021-02-25T06:58:59Z" finished-at="2021-02-25T06:59:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.nordicnaturals.com/consumers/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSession -->
+        <test-method status="PASS" signature="Test_HomePage_LinksSatus()[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="Test_HomePage_LinksSatus" duration-ms="45211" started-at="2021-02-25T06:59:11Z" finished-at="2021-02-25T06:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_HomePage_LinksSatus -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="tearDown" is-config="true" duration-ms="130" started-at="2021-02-25T06:59:56Z" finished-at="2021-02-25T06:59:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test_HomePage_LinksSatus status=SUCCESS method=TC_001_HomePageLinkValidationTest.Test_HomePage_LinksSatus()[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest -->
+    </test> <!-- NN Consumers HomePage Regression -->
+  </suite> <!-- Suite -->
+</testng-results>
