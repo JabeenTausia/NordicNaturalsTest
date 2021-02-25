@@ -12,5 +12,5 @@ Steps to clone execute the tests
 ```
 git clone https://github.com/JabeenTausia/NordicNaturalsTest.git
 cd NordicNaturalsTest
-mvn test -DsuiteFile=testng.xml
+mvn clean test
 ```
