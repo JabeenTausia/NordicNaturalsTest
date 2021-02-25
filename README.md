@@ -14,3 +14,4 @@ git clone https://github.com/JabeenTausia/NordicNaturalsTest.git
 cd NordicNaturalsTest
 mvn clean test
 ```
+Test reports are generated at /target/surefire-reports/ExtentReportNordicNaturals.html
