@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.NordicNaturals.ExtenetReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="NN Consumers HomePage Regression(failed)">
+    <classes>
+      <class name="com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Test_HomePage_LinksSatus"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest -->
+    </classes>
+  </test> <!-- NN Consumers HomePage Regression(failed) -->
+</suite> <!-- Failed suite [Suite] -->
