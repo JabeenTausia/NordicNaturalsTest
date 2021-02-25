@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="57.84" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="42.076" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -18,14 +18,13 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/surefire/surefirebooter7899376450805402041.jar /Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/surefire 2021-02-24T22-58-58_243-jvmRun1 surefire3460773133761042206tmp surefire_04419744515824866257tmp"/>
+    <property name="sun.java.command" value="/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/surefire/surefirebooter6406483774003962545.jar /Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/surefire 2021-02-24T23-55-05_656-jvmRun1 surefire472716592937095535tmp surefire_02661574860620901024tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/test-classes:/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/classes:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/jabeentausia/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/jabeentausia/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/jabeentausia/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/jabeentausia/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/jabeentausia/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/jabeentausia/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/jabeentausia/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/jabeentausia/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/jabeentausia/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/jabeentausia/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/jabeentausia/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/jabeentausia/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/jabeentausia/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/jabeentausia/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/jabeentausia/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar:/Users/jabeentausia/.m2/repository/org/jsoup/jsoup/1.8.3/jsoup-1.8.3.jar:/Users/jabeentausia/.m2/repository/org/xerial/sqlite-jdbc/3.8.11.1/sqlite-jdbc-3.8.11.1.jar:/Users/jabeentausia/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/jabeentausia/.m2/repository/org/mongodb/mongodb-driver/3.0.4/mongodb-driver-3.0.4.jar:/Users/jabeentausia/.m2/repository/org/mongodb/bson/3.0.4/bson-3.0.4.jar:/Users/jabeentausia/.m2/repository/org/mongodb/mongodb-driver-core/3.0.4/mongodb-driver-core-3.0.4.jar:/Users/jabeentausia/.m2/repository/io/github/bonigarcia/webdrivermanager/4.2.2/webdrivermanager-4.2.2.jar:/Users/jabeentausia/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar:/Users/jabeentausia/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/jabeentausia/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/Users/jabeentausia/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/Users/jabeentausia/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.0.1/httpclient5-5.0.1.jar:/Users/jabeentausia/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.0.1/httpcore5-5.0.1.jar:/Users/jabeentausia/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.0.1/httpcore5-h2-5.0.1.jar:/Users/jabeentausia/.m2/repository/commons-codec/commons-codec/1.13/commons-codec-1.13.jar:/Users/jabeentausia/.m2/repository/org/rauschig/jarchivelib/1.1.0/jarchivelib-1.1.0.jar:/Users/jabeentausia/.m2/repository/org/apache/commons/commons-compress/1.20/commons-compress-1.20.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/jabeentausia"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="suiteFile" value="testng.xml"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre"/>
     <property name="basedir" value="/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation"/>
     <property name="file.separator" value="/"/>
@@ -33,7 +32,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/surefire/surefirebooter7899376450805402041.jar"/>
+    <property name="surefire.real.class.path" value="/Users/jabeentausia/Documents/javaprojs/NordicNaturalsAutomation/target/surefire/surefirebooter6406483774003962545.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_281.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -63,7 +62,7 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="Test_HomePage_LinksSatus" classname="com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest" time="45.258">
+  <testcase name="Test_HomePage_LinksSatus" classname="com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest" time="31.902">
     <system-out><![CDATA[LOG:INFO- Setting up the Browser chrome https://www.nordicnaturals.com/consumers/
 LOG:INFO- Browser and Application is up and running
 Checking url https://www.nordicnaturals.com/consumers/#
@@ -290,170 +289,6 @@ Checking url https://www.nordicnaturals.com/consumers/#
 Code from server is 200
 Response from server is OK
 Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/why-omega-3s/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/why-probiotics/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/why-vitamins/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/healthy-science/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/our-story/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/our-mission/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/nordic-advantage/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/cofa/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/outreach/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/login/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/practitioner-sign-up/
-Code from server is 404
-Response from server is Not Found
-Broken link https://www.nordicnaturals.com/consumers/practitioner-sign-up/
-Checking url https://www.nordicnaturals.com/professionals/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/petVet/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/store-locations/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url http://nordicnaturals.ca/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/china/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/ie/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/norway/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/pe/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/uk/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/southkorea/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/international/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/patients/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/login/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/petVet/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/en/patients/pet-products/969
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://blog.nordicnaturals.com/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/#store.links
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/login/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/create/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/checkout/cart/
-Code from server is 200
-Response from server is OK
-Success
 Checking url https://www.nordicnaturals.com/consumers/#topnav-shop-by-health-interests
 Code from server is 200
 Response from server is OK
@@ -622,6 +457,10 @@ Checking url https://www.nordicnaturals.com/consumers/nordic-pack
 Code from server is 200
 Response from server is OK
 Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
 Checking url https://www.nordicnaturals.com/consumers/why-omega-3s/
 Code from server is 200
 Response from server is OK
@@ -635,6 +474,30 @@ Code from server is 200
 Response from server is OK
 Success
 Checking url https://www.nordicnaturals.com/healthy-science/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/why-omega-3s/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/why-probiotics/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/why-vitamins/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/healthy-science/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
 Code from server is 200
 Response from server is OK
 Success
@@ -654,7 +517,143 @@ Checking url https://www.nordicnaturals.com/consumers/cofa/
 Code from server is 200
 Response from server is OK
 Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/our-story/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/our-mission/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/nordic-advantage/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/cofa/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
 Checking url https://www.nordicnaturals.com/consumers/outreach/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/outreach/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/customer/account/login/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/practitioner-sign-up/
+Code from server is 404
+Response from server is Not Found
+Broken link https://www.nordicnaturals.com/consumers/practitioner-sign-up/
+Checking url https://www.nordicnaturals.com/professionals/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/petVet/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/store-locations/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url http://nordicnaturals.ca/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/china/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/ie/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/norway/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/pe/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/uk/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/southkorea/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/international/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/patients/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/customer/account/login/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/petVet/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/en/patients/pet-products/969
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://blog.nordicnaturals.com/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/#store.links
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/customer/account/login/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/customer/account/create/
+Code from server is 200
+Response from server is OK
+Success
+Checking url https://www.nordicnaturals.com/consumers/checkout/cart/
 Code from server is 200
 Response from server is OK
 Success
@@ -735,38 +734,6 @@ Code from server is 200
 Response from server is OK
 Success
 Checking url https://www.nordicnaturals.com/consumers/nordic-immune-daily-defense
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/reward-points/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/reward-points/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/reward-points/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/reward-points/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/reward-points/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/reward-points/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/
 Code from server is 200
 Response from server is OK
 Success
@@ -945,7 +912,7 @@ Success
 Checking url https://onetrust.com/poweredbyonetrust
 Code from server is 403
 Response from server is Forbidden
-Broken link https://onetrust.com/poweredbyonetrust
+Success
 Checking url https://www.nordicnaturals.com/consumers/#
 Code from server is 200
 Response from server is OK
@@ -957,7 +924,7 @@ Success
 Checking url https://onetrust.com/poweredbyonetrust
 Code from server is 403
 Response from server is Forbidden
-Broken link https://onetrust.com/poweredbyonetrust
+Success
 Checking url https://www.nordicnaturals.com/consumers/reward-points
 Code from server is 200
 Response from server is OK
@@ -966,27 +933,15 @@ Checking url https://www.nordicnaturals.com/consumers/privacy
 Code from server is 200
 Response from server is OK
 Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/create/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/checkout/
-Code from server is 200
-Response from server is OK
-Success
-Checking url https://www.nordicnaturals.com/consumers/customer/account/forgotpassword/
-Code from server is 200
-Response from server is OK
-Success
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 3483
+Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 46738
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 24, 2021 10:59:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 24, 2021 11:55:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 java.net.MalformedURLException
 	at java.net.URL.<init>(URL.java:644)

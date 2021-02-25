@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="57223" started-at="2021-02-25T06:58:59Z" finished-at="2021-02-25T06:59:56Z">
+  <suite name="Suite" duration-ms="41478" started-at="2021-02-25T07:55:06Z" finished-at="2021-02-25T07:55:48Z">
     <groups>
     </groups>
-    <test name="NN Consumers HomePage Regression" duration-ms="57223" started-at="2021-02-25T06:58:59Z" finished-at="2021-02-25T06:59:56Z">
+    <test name="NN Consumers HomePage Regression" duration-ms="41478" started-at="2021-02-25T07:55:06Z" finished-at="2021-02-25T07:55:48Z">
       <class name="com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest">
-        <test-method status="PASS" signature="startSession(java.lang.String, java.lang.String)[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="startSession" is-config="true" duration-ms="11847" started-at="2021-02-25T06:58:59Z" finished-at="2021-02-25T06:59:11Z">
+        <test-method status="PASS" signature="startSession(java.lang.String, java.lang.String)[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="startSession" is-config="true" duration-ms="9457" started-at="2021-02-25T07:55:06Z" finished-at="2021-02-25T07:55:16Z">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startSession -->
-        <test-method status="PASS" signature="Test_HomePage_LinksSatus()[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="Test_HomePage_LinksSatus" duration-ms="45211" started-at="2021-02-25T06:59:11Z" finished-at="2021-02-25T06:59:56Z">
+        <test-method status="PASS" signature="Test_HomePage_LinksSatus()[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="Test_HomePage_LinksSatus" duration-ms="31856" started-at="2021-02-25T07:55:16Z" finished-at="2021-02-25T07:55:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_HomePage_LinksSatus -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="tearDown" is-config="true" duration-ms="130" started-at="2021-02-25T06:59:56Z" finished-at="2021-02-25T06:59:56Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.NordicNaturals.TestCases.TC_001_HomePageLinkValidationTest@7dc7cbad]" name="tearDown" is-config="true" duration-ms="126" started-at="2021-02-25T07:55:48Z" finished-at="2021-02-25T07:55:48Z">
           <params>
             <param index="0">
               <value>

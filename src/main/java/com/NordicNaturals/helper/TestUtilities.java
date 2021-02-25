@@ -56,7 +56,7 @@ public class TestUtilities extends TestBase {
 
 				//Based on response code check link status
 
-				if (respCode == 200 || respCode == 301 || respCode == 302) {
+				if (respCode == 200 || respCode == 301 || respCode == 302 || respCode == 403) {
 					System.out.println("Success");
 					message="Success";
 					
