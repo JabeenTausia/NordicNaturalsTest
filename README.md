@@ -4,8 +4,6 @@ Test automation framework using Selenium with Java, TestNG and Maven
 
 Dependency Java Maven
 
-java version "1.8.0_281"
-
 ###libraries used Selenium TestNG Extent Reports webdrivermanager
 
 Steps to clone execute the tests
